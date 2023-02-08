@@ -1,12 +1,8 @@
 # SamucaDev Portfólio 
 
+## Information Project 
 
-- 0. Information Project 
-- 1. Requirements
-- 2. How to init
-
-
-Already install:
+**Already install:**
 
 - Style component
 - ESLint
