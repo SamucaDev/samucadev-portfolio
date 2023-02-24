@@ -1,17 +1,13 @@
+import Button from '@/components/atoms/Button';
+// import Paragraph from '@/components/atoms/Paragraph';
 import React from 'react'
-import Head from 'next/head'
 
-const Home: React.FC = (props) => {
+const Home: React.FC = () => {
   return (
-    <>
-      <Head>
-        <title>Create Next App</title>
-      </Head>
-      Teste
-      <main>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam amet ab veritatis hic incidunt ea molestias expedita ipsa! Recusandae, illum! Culpa dolor voluptates facilis facere vitae praesentium quas voluptatum id?
-      </main>
-    </>
+    <div style={{width: '100vw', height: '100vh', display: 'block'}}>
+      {/* <Paragraph color='primary'>OOOO OOO SEXO É BOM</Paragraph> */}
+      {/* <Button label='Acessar blog' weight={700} event={() => console.log('AIAIAIAI')}></Button> */}
+    </div>
   )
 }
 

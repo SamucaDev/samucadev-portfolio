@@ -6,5 +6,8 @@
   ],
   "rules": {
     "no-console": "error"
+  },
+  "env": {
+    "jest": true
   }
 }
